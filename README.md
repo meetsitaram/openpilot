@@ -97,7 +97,7 @@ There is rudimentary infrastructure to run a basic simulation and generate a rep
 ./run_docker_tests.sh
 ```
 
-The results are written to `selfdrive/test/plant/out/index.html`
+The results are written to `selfdrive/test/tests/plant/out/longitudinal/index.html`
 
 More extensive testing infrastructure and simulation environments are coming soon.
 
